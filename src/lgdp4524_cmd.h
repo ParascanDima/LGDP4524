@@ -35,7 +35,6 @@
 
 #define RamAddrSet                 0x21
 #define GramReadData               0x22
-#define RamAddrSet                 0x21
 
 #define yControl_0                 0x30
 #define yControl_1                 0x31
